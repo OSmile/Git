@@ -6,3 +6,9 @@ Let's test our git knowledge!
 We returned to master's branch.
 Let's talk about Git.
 It's useful SCV.
+
+Hello from newPerson.
+Second branch is working!
+That's all.
+Good bye.)
+
